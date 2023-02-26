@@ -11,8 +11,6 @@ app.use(cors({
   credentials: true
 }));
 
-app.use(express.json());
-
 app.use("/api/", indicatorRoute);
 
 app.listen(PORT, () => console.log(`Server is running on PORT ${PORT}`));
