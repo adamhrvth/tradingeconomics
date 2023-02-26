@@ -1,3 +1,8 @@
+# Demo project
+
+Demo project is available in folder ./adam-horvath-demo/ . The project is a web application which displays time series based on user input (country name, indicator name, start- and end date of time series). Please note that the application has restricted access to TE's databases. Sample input for which data is accessible: [mexico/sweden], [gdp], [2000-2022].
+
+![image](https://user-images.githubusercontent.com/83016858/221406627-9796075c-6e36-452f-94c3-c4959a6a437d.png)
 
 **Introduction**
 
